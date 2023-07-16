@@ -1,3 +1,4 @@
+/*
 Write and run a PL/SQL block which produces a report listing world regions (region_name), countries (country_id, country_name) in those regions.  
 
 Restrict your regions to those in the North/South Americas
